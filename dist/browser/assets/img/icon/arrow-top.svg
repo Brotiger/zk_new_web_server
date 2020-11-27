@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12">
+  <defs>
+    <style>
+      .IconArrowTopPath {        
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-arrow-top" data-name="icon-arrow-top" class="IconArrowTopPath" d="M25,527l10-11,10,11-2,1-8-9-8,9Z" transform="translate(-25 -516)"/>
+</svg>

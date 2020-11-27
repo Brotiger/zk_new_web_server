@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .IconCasePath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-case" data-name="icon-case" class="IconCasePath" d="M433.155,133.786h-3.182v-0.093a3.475,3.475,0,1,0-6.937,0v0.093h-3.181L419.006,145h15Zm-6.65-3.329a3.054,3.054,0,0,1,2.81,2,3.265,3.265,0,0,0-5.622,0A3.06,3.06,0,0,1,426.505,130.457Zm-2.827,3.329a2.861,2.861,0,0,1,5.655,0h-5.655Z" transform="translate(-419 -130)"/>
+</svg>

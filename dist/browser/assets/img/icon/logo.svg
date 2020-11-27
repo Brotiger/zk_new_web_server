@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="45.42" viewBox="0 0 170 45.42">
+	<defs>
+		<linearGradient id="logo-zk-linear-gradient" x1="55.95" y1="810.14" x2="55.95" y2="833" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e47f25"/>
+			<stop offset="0.3" stop-color="#f5c53b"/>
+			<stop offset="1" stop-color="#fccc07"/>
+		</linearGradient>
+		<linearGradient id="logo-zk-linear-gradient-2" x1="42.64" y1="809.13" x2="31.07" y2="797.56" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f36c21"/>
+			<stop offset="1" stop-color="#f5c53b"/>
+		</linearGradient>
+		<linearGradient id="logo-zk-linear-gradient-3" x1="55.95" y1="809.57" x2="55.95" y2="787.87" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f5c53b"/>
+			<stop offset="0.28" stop-color="#d85328"/>
+			<stop offset="1" stop-color="#f9cd35"/>
+		</linearGradient>
+		<linearGradient id="logo-zk-linear-gradient-4" x1="47.99" y1="814.48" x2="37.04" y2="814.48" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f36c21"/>
+			<stop offset="1" stop-color="#fccc07"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#logo-zk-linear-gradient)" d="M48,153.09,63.91,169V155.11l-9-9Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-zk-linear-gradient-2)" d="M37,150.48v-22l11,11Z" transform="translate(-37 -123.58)"/>
+	<path fill="#d85328" d="M48,153.09l6.95-7L48,139.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-zk-linear-gradient-3)" d="M48,139.49l15.92-15.91v13.6l-9,9Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-zk-linear-gradient-4)" d="M48,161.48l-11-11,11-11Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M77.91,145.13h2c1.19,0,1.65-.23,1.65-1.21s-.49-1.16-2.52-1.16a14.59,14.59,0,0,0-3.06.32l-.55-2.43a23.53,23.53,0,0,1,4.25-.44c3.62,0,4.86.84,4.86,3.16,0,1.7-.43,2.72-2.6,2.89,2.31.12,2.86,1.24,2.86,3.15,0,2.64-1.59,3.5-5.12,3.5a25.85,25.85,0,0,1-4.31-.4l.52-2.49a15.5,15.5,0,0,0,3.13.32c2.14,0,2.72-.32,2.72-1.39s-.58-1.39-1.77-1.39H77.91Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M98.45,146.46c0,5-2,6.45-5.93,6.45s-5.93-1.44-5.93-6.45,2-6.25,5.93-6.25S98.45,141.52,98.45,146.46Zm-3,0c0-3.33-.46-3.7-2.92-3.7s-2.92.37-2.92,3.7.46,3.85,2.92,3.85S95.44,149.88,95.44,146.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M104.61,143a41.11,41.11,0,0,1-2.08,9.72h-3A45.35,45.35,0,0,0,102,140.5h8.53v12.18h-2.8V143Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M124.49,146.46c0,5-2,6.45-5.93,6.45s-5.9-1.44-5.9-6.45,2-6.25,5.9-6.25S124.49,141.52,124.49,146.46Zm-3,0c0-3.33-.46-3.7-2.92-3.7s-2.92.37-2.92,3.7.46,3.85,2.92,3.85S121.48,149.88,121.48,146.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M129.23,152.68V143h-4.08V140.5h10.94V143H132v9.72Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M148.65,146.46c0,5-2,6.45-5.94,6.45s-5.93-1.44-5.93-6.45,2-6.25,5.93-6.25S148.65,141.52,148.65,146.46Zm-3,0c0-3.33-.47-3.7-2.93-3.7s-2.92.37-2.92,3.7.47,3.85,2.92,3.85S145.64,149.88,145.64,146.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M161.78,152.68H159v-8c-1.41,2.72-3,5.47-4.57,8h-3.67V140.5h2.75v8.33c1.67-2.74,3.32-5.58,4.83-8.33h3.44Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M176.33,152.68c-1.56-4.45-2.72-5.47-4.63-5.67v5.67h-2.8V140.5h2.8v5.85A41.45,41.45,0,0,0,176,140.5h3.35a37,37,0,0,1-4,5.47c1.3.49,2.55,1.42,4.28,6.71Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M192,146.46c0,5-2,6.45-5.93,6.45s-5.93-1.44-5.93-6.45,2-6.25,5.93-6.25S192,141.52,192,146.46Zm-3,0c0-3.33-.47-3.7-2.93-3.7s-2.92.37-2.92,3.7.46,3.85,2.92,3.85S189,149.88,189,146.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M206.83,152.57l.17-2.49h-2.14V140.5h-8.42a35,35,0,0,1-1.71,9.58h-2l.17,2.49ZM199,143h3v7.12h-4.28A35.68,35.68,0,0,0,199,143Z" transform="translate(-37 -123.58)"/>
+	<path fill="#231f20" d="M161.12,138.28,156.23,141l-.58-2.74Z" transform="translate(-37 -123.58)"/>
+</svg>

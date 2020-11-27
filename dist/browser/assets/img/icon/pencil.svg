@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .IconPencilPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-pencil" data-name="icon-pencil" class="IconPencilPath" d="M1069.95,257.67l3.25,3.27-8.23,8.279-3.26-3.27Zm5.72-.789-1.45-1.459a1.429,1.429,0,0,0-2.03,0l-1.39,1.4,3.25,3.271,1.62-1.63A1.109,1.109,0,0,0,1075.67,256.881Zm-15.66,13.665a0.371,0.371,0,0,0,.45.443l3.62-.884-3.25-3.271Z" transform="translate(-1060 -255)"/>
+</svg>

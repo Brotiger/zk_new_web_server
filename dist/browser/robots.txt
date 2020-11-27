@@ -1,0 +1,8 @@
+User-Agent: *
+Crawl-delay: 1
+Disallow: /500.html
+Disallow: /*(modal:signin)$
+Disallow: /*(modal:signup)$
+
+Host: https://shop.zolotoykod.ru
+Sitemap: https://shop.zolotoykod.ru/sitemap.xml

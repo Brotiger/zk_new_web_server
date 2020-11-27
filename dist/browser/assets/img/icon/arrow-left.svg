@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="20" viewBox="0 0 12 20">
+  <defs>
+    <style>
+      .IconArrowLeftPath {        
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-arrow-left" data-name="icon-arrow-left" class="IconArrowLeftPath" d="M38,602L27,592l11-10,1,2-9,8,9,8Z" transform="translate(-27 -582)"/>
+</svg>

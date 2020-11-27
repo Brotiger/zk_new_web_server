@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="14" viewBox="0 0 17 14">
+  <defs>
+    <style>
+      .IconPagArrowRightPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <polygon id="icon-pag-arrow-right" data-name="icon-pag-arrow-right" class="IconPagArrowRightPath" points="0.93 8.5 14.17 8.5 9.52 13.16 10.93 14.57 16.59 8.91 16.59 8.91 18 7.5 10.93 0.43 9.52 1.84 14.17 6.5 0.93 6.5 0.93 8.5"/>
+</svg>

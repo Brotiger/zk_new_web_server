@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="70" viewBox="0 0 90.04 82.3">
+  <defs>
+    <style>
+      .IconRestaurantPath {
+        fill: #fff;      	
+        fill-rule: evenodd;
+      }
+      .IconRestaurantPolygon {
+        fill: rgba(0, 0, 0, 0.1);
+      }      
+    </style>
+  </defs>
+  <polygon id="icon-restaurant3" data-name="icon-restaurant3" class="IconRestaurantPolygon" points="58.94 20.96 90.03 52.05 90.03 82.3 35.84 82.3 8.07 54.53 8.07 54.53 58.94 20.96"/>  
+  <path id="icon-restaurant1" data-name="icon-restaurant1" class="IconRestaurantPath" d="M285.85,728.7a30.41,30.41,0,0,0,2.27,6.27h55.1a30.52,30.52,0,0,0,2.27-6.27Z" transform="translate(-280.15 -680.66)"/>
+  <path id="icon-restaurant2" data-name="icon-restaurant2" class="IconRestaurantPath" d="M349,720.79h-2.69a30.68,30.68,0,0,0-27.62-29.87,5.58,5.58,0,1,0-6.11,0A30.68,30.68,0,0,0,285,720.79h-2.69a2.16,2.16,0,0,0,0,4.33H349a2.16,2.16,0,1,0,0-4.33Z" transform="translate(-280.15 -680.66)"/>
+</svg>
+

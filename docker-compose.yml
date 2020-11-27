@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  nginx:
+    image: nginx
+    environment:
+      - VIRTUAL_HOST=${DOMAIN:-shop.zolotoykod.ru}
+    volumes:
+      - ./dist/browser/:/usr/share/nginx/html
+    networks:
+    - default
+    - proxy
+
+networks:
+  proxy:
+    external: true

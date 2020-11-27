@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .IconClockPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-clock" data-name="icon-clock" class="IconClockPath" d="M136,1076a20,20,0,1,1,20-20A20.021,20.021,0,0,1,136,1076Zm0-38.67A18.67,18.67,0,1,0,154.667,1056,18.693,18.693,0,0,0,136,1037.33Zm0,20H125.333a0.659,0.659,0,0,1-.666-0.66,0.668,0.668,0,0,1,.666-0.67h10v-15.33a0.667,0.667,0,1,1,1.334,0v16A0.66,0.66,0,0,1,136,1057.33Z" transform="translate(-116 -1036)"/>
+</svg>

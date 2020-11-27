@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="45.42" viewBox="0 0 27 45.42">
+	<defs>
+		<linearGradient id="logo-sm-zk-linear-gradient" x1="55.95" y1="810.14" x2="55.95" y2="833" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e47f25"/>
+			<stop offset="0.3" stop-color="#f5c53b"/>
+			<stop offset="1" stop-color="#fccc07"/>
+		</linearGradient>
+		<linearGradient id="logo-sm-zk-linear-gradient-2" x1="42.64" y1="809.13" x2="31.07" y2="797.56" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f36c21"/>
+			<stop offset="1" stop-color="#f5c53b"/>
+		</linearGradient>
+		<linearGradient id="logo-sm-zk-linear-gradient-3" x1="55.95" y1="809.57" x2="55.95" y2="787.87" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f5c53b"/>
+			<stop offset="0.28" stop-color="#d85328"/>
+			<stop offset="1" stop-color="#f9cd35"/>
+		</linearGradient>
+		<linearGradient id="logo-sm-zk-linear-gradient-4" x1="47.99" y1="814.48" x2="37.04" y2="814.48" gradientTransform="translate(0 -664)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f36c21"/>
+			<stop offset="1" stop-color="#fccc07"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#logo-sm-zk-linear-gradient)" d="M48,153.09,63.91,169V155.11l-9-9Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-sm-zk-linear-gradient-2)" d="M37,150.48v-22l11,11Z" transform="translate(-37 -123.58)"/>
+	<path fill="#d85328" d="M48,153.09l6.95-7L48,139.49Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-sm-zk-linear-gradient-3)" d="M48,139.49l15.92-15.91v13.6l-9,9Z" transform="translate(-37 -123.58)"/>
+	<path fill="url(#logo-sm-zk-linear-gradient-4)" d="M48,161.48l-11-11,11-11Z" transform="translate(-37 -123.58)"/>
+</svg>

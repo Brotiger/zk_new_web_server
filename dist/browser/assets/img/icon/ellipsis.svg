@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="3" viewBox="0 0 19 3">
+  <defs>
+    <style>
+      .IconEllipsisPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-ellipsis" data-name="icon-ellipsis" class="IconEllipsisPath" d="M841,2120h3v3h-3v-3Zm-8,0h3v3h-3v-3Zm16,0h3v3h-3v-3Z" transform="translate(-833 -2120)"/>
+</svg>

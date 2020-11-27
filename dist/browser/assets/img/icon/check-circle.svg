@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .IconCheckCirclePath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-check-circle" data-name="icon-check-circle" class="IconCheckCirclePath" d="M136,1171a20,20,0,1,1,20-20A20.021,20.021,0,0,1,136,1171Zm0-38.46A18.46,18.46,0,1,0,154.461,1151,18.482,18.482,0,0,0,136,1132.54Zm-1.732,25.12a0.739,0.739,0,0,1-.576.26,0.728,0.728,0,0,1-.48-0.17l-7.693-6.15a0.769,0.769,0,1,1,.961-1.2l7.122,5.7,11.823-13.3a0.769,0.769,0,1,1,1.15,1.02Z" transform="translate(-116 -1131)"/>
+</svg>

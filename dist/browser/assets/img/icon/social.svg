@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .IconSocialPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-social" data-name="icon-social" class="IconSocialPath" d="M1033.05,265.169a2.925,2.925,0,0,0-2.29,1.117l-4.99-2.532a3.105,3.105,0,0,0,.11-0.754,2.783,2.783,0,0,0-.13-0.818l4.96-2.52a2.906,2.906,0,1,0-.59-1.747,2.711,2.711,0,0,0,.11.757l-4.99,2.532a2.915,2.915,0,1,0,.04,3.54l4.97,2.52a2.791,2.791,0,0,0-.13.82A2.935,2.935,0,1,0,1033.05,265.169Z" transform="translate(-1020 -255)"/>
+</svg>

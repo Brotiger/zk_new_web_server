@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="12" viewBox="0 0 15 12">
+  <defs>
+    <style>
+      .IconQuoteRightPath {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-quote-right" data-name="icon-quote-right" class="IconQuoteRightPath" d="M951.781,269l-0.562-1.345a2.829,2.829,0,0,0,2.25-1.823,2.452,2.452,0,0,0-.375-2.112h-3.657V257H956v6.816A5.024,5.024,0,0,1,951.781,269Zm-8.437,0-0.563-1.345a2.829,2.829,0,0,0,2.25-1.823,2.452,2.452,0,0,0-.375-2.112H941V257h6.562v6.816A5.023,5.023,0,0,1,943.344,269Z" transform="translate(-941 -257)"/>
+</svg>
